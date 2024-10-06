@@ -22,6 +22,13 @@ cd Proyek-Analisis-Data
 ```
 
 Install the required Python libraries:
+
+The following packages are necessary for running the analysis and the dashboard:
+```bash
+pip install pandas numpy scipy matplotlib seaborn streamlit statsmodels
+```
+Or
+
 ```bash
 pip install -r requirements.txt
 ```
