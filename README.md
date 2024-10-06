@@ -31,15 +31,6 @@ Run the Streamlit app:
 streamlit run dashboardmiranda.py
 ```
 
-# Requirements
-streamlit==1.30.0
-pandas==2.1.4
-matplotlib==3.8.2
-seaborn==0.13.0
-numpy==1.26.2
-statsmodels==0.14.0
-scipy==1.11.4
-
 # Usage
 Open the app in your browser.
 Upload a CSV file containing air quality data (e.g., PRSA_Data_Wanliu_20130301-20170228.csv).
