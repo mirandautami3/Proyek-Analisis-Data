@@ -9,17 +9,27 @@ Correlation Matrix: Analyze the correlation between environmental factors and po
 Insights: Understand how environmental factors, such as temperature and wind speed, affect air quality.
 
 # Installation
-# Clone this repository:
+Clone this repository:
+
+```bash
 git clone https://github.com/mirandautami3/Proyek-Analisis-Data.git
+```
 
-# Navigate to the project folder:
+Navigate to the project folder:
+
+```bash
 cd Proyek-Analisis-Data
+```
 
-# Install the required Python libraries:
+Install the required Python libraries:
+```bash
 pip install -r requirements.txt
+```
 
-# Run the Streamlit app:
+Run the Streamlit app:
+```bash
 streamlit run dashboardmiranda.py
+```
 
 # Requirements
 streamlit==1.30.0
